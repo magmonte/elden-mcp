@@ -22,6 +22,7 @@
 - [Termos de Uso](https://elden.com.br/termos) e [Política de Privacidade](https://elden.com.br/privacidade): Documentos legais e de conformidade LGPD.
 
 ## Artigos Publicados no Blog
+- [GPT-6.2 Astra e GPT-6.2 Sol: o que muda no preço, no desempenho e no uso pela advocacia brasileira](https://elden.com.br/blog/gpt-6-2-astra-e-sol-lancamento-advocacia-brasileira/)
 - [MCP de jurisprudência brasileira para Claude e ChatGPT: guia prático para advogados](https://elden.com.br/blog/mcp-jurisprudencia-brasileira-para-claude-e-chatgpt/)
 - [Como conferir citação de acórdão com IA sem alucinação antes de protocolar](https://elden.com.br/blog/como-conferir-citacao-de-acordao-com-ia-sem-alucinacao/)
 - [Como pesquisar jurisprudência do STJ e STF no Claude grátis com fonte oficial](https://elden.com.br/blog/como-pesquisar-jurisprudencia-stj-stf-claude-gratis/)

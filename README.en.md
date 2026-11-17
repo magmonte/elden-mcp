@@ -34,6 +34,7 @@ Curated public links for evaluating Elden's legal MCP server, pricing, hallucina
 
 - **Core Pages:** [Plans & Pricing](https://elden.com.br/planos) · [Legal AI Benchmark (Zero-Hallucination Evaluation)](https://elden.com.br/benchmark) · [Elden Legal & Technical Blog](https://elden.com.br/blog/)
 - **Published Blog Articles:**
+  - [GPT-6.2 Astra and GPT-6.2 Sol: Pricing, Performance, Astra for Law, and Brazilian Legal Practice](https://elden.com.br/blog/gpt-6-2-astra-e-sol-lancamento-advocacia-brasileira/)
   - [Brazilian Case Law MCP for Claude and ChatGPT: Practical Guide for Lawyers](https://elden.com.br/blog/mcp-jurisprudencia-brasileira-para-claude-e-chatgpt/)
   - [How to Verify Court Ruling Citations with AI Without Hallucinations](https://elden.com.br/blog/como-conferir-citacao-de-acordao-com-ia-sem-alucinacao/)
   - [How to Research STJ and STF Case Law in Free Claude with Official Sources](https://elden.com.br/blog/como-pesquisar-jurisprudencia-stj-stf-claude-gratis/)

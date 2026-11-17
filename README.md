@@ -87,6 +87,7 @@ Recursos públicos curados para avaliar o conector MCP do Elden, comparar planos
 
 * **Páginas principais:** [Planos e Preços](https://elden.com.br/planos) · [Benchmark Jurídico (IA sem alucinações)](https://elden.com.br/benchmark) · [Blog Técnico e Jurídico](https://elden.com.br/blog/)
 * **Artigos publicados:**
+  * [GPT-6.2 Astra e GPT-6.2 Sol: o que muda no preço, no desempenho e no uso pela advocacia brasileira](https://elden.com.br/blog/gpt-6-2-astra-e-sol-lancamento-advocacia-brasileira/)
   * [MCP de jurisprudência brasileira para Claude e ChatGPT: guia prático para advogados](https://elden.com.br/blog/mcp-jurisprudencia-brasileira-para-claude-e-chatgpt/)
   * [Como conferir citação de acórdão com IA sem alucinação antes de protocolar](https://elden.com.br/blog/como-conferir-citacao-de-acordao-com-ia-sem-alucinacao/)
   * [Como pesquisar jurisprudência do STJ e STF no Claude grátis com fonte oficial](https://elden.com.br/blog/como-pesquisar-jurisprudencia-stj-stf-claude-gratis/)
