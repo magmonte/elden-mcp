@@ -19,7 +19,7 @@ Todos os planos pagos são mensais, sem multa de cancelamento, com garantia lega
 | **Inteiro teor e leitura documental** | Somente ementas, súmulas, temas e leis | **Sim** | **Sim** | **Sim** |
 | **Adiantamento de janela de 5h** | Não (IA avisa ao bater o limite e informa o horário de renovação) | **Sim** (até 2×/mês) | **Sim** (até 2×/mês) | **Sim** |
 | **Prioridade em horário de pico** | Padrão | Prioridade | **Prioridade máxima** | **Prioridade máxima** |
-| **Estilos de escrita próprios** | Estilo forense padrão (somente leitura) | **Até 5 estilos** (criar e editar) | **Até 20 estilos** (criar e editar) | Estilos da banca (até 50) |
+| **Estilos de escrita próprios** | Estilo forense padrão (somente leitura) | **Até 5 estilos** (criar/editar, inclusive a partir de PDF seu) | **Até 20 estilos** (criar/editar, inclusive a partir de PDF seu) | Estilos da banca (até 50) |
 | **Histórico de pesquisas** | **7 dias** | **30 dias (1 mês)** | **12 meses** | Personalizado |
 | **Memória entre conversas** | Não | **Sim (até 100 anotações)** | **Sim (até 5.000 anotações)** | **Memória compartilhada (até 20.000)** |
 
