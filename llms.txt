@@ -12,7 +12,10 @@
 ## Prompts e Configuração Técnica
 - [Manifesto MCP Registry (server.json)](./server.json): Metadados oficiais de servidor MCP remoto para indexação em diretórios e registries.
 - [Configuração de Cliente MCP (mcp.json)](./mcp.json): Snippet JSON pronto para conectar clientes MCP ao endpoint https://elden.com.br/mcp.
-- [Prompt: Pesquisa de Jurisprudência STF/STJ](./prompts/pesquisa-jurisprudencia.md): Modelo de instrução para buscar precedentes reais com número do processo, data e link oficial do tribunal.
+- [Prompt: Pesquisa de Jurisprudência STF/STJ](./prompts/pesquisa-jurisprudencia.md): Prompt estruturado com busca obrigatória, regra anti-alucinação e distinguishing.
+- [Prompt: Auditoria Forense de Citações](./prompts/conferencia-citacoes.md): Fluxo pré-protocolo para classificar citações em verificada, divergente ou alucinação.
+- [Prompt: Redação de Peça Auditável](./prompts/redacao-pecas-fundamentadas.md): Redação em 3 etapas com quadro final de conferência e links oficiais.
+- [English Documentation (README.en.md)](./README.en.md): English summary for international MCP directories and legal teams.
 
 ## Site Oficial (elden.com.br)
 - [Página Inicial do Elden](https://elden.com.br/): Apresentação comercial, contador atualizado do acervo jurídico e acesso rápido aos planos.

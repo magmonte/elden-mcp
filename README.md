@@ -6,6 +6,7 @@
 [![MCP Endpoint](https://img.shields.io/badge/MCP-Remote%20OAuth-2563EB)](https://elden.com.br/mcp)
 [![Plano Grátis](https://img.shields.io/badge/Plano%20Gr%C3%A1tis-R%24%200%20Permanente-16A34A)](./PLANOS.md)
 [![LGPD](https://img.shields.io/badge/LGPD-Sem%20envio%20de%20autos-0F766E)](./PRIVACIDADE-LGPD.md)
+[![English](https://img.shields.io/badge/Docs-English-4B5563)](./README.en.md)
 
 ---
 
@@ -85,9 +86,15 @@ O servidor MCP recebe apenas os parâmetros objetivos da consulta enviados pela 
 * [BENCHMARK.md](./BENCHMARK.md) — Metodologia, critérios de correção e tabela completa de resultados (06/09/2026).
 * [CONECTAR.md](./CONECTAR.md) — Guia de ativação no Claude (grátis), ChatGPT (Business/Enterprise/Edu), Gemini e Claude Code.
 * [PRIVACIDADE-LGPD.md](./PRIVACIDADE-LGPD.md) — Fluxo de dados, LGPD, sigilo advocatício e diretrizes da OAB/CNJ.
-* [prompts/](./prompts/) — Prompts prontos para pesquisa de jurisprudência (STF/STJ), auditoria de citações e redação fundamentada.
+* [prompts/](./prompts/) — Prompts de elite com guardrails anti-alucinação:
+  * [Pesquisa de Jurisprudência & Distinguishing](./prompts/pesquisa-jurisprudencia.md)
+  * [Auditoria Forense de Citações Pré-Protocolo](./prompts/conferencia-citacoes.md)
+  * [Redação de Peças com Fundamentação Auditável](./prompts/redacao-pecas-fundamentadas.md)
 * [server.json](./server.json) e [mcp.json](./mcp.json) — Manifestos de especificação MCP para diretórios e clientes compatíveis.
+* [README.en.md](./README.en.md) — English overview for international MCP directories and legal ops teams.
 
 ---
 
 **Links oficiais:** [Site](https://elden.com.br) · [Criar conta grátis](https://elden.com.br/criar-conta) · [Benchmark](https://elden.com.br/benchmark) · [Blog](https://elden.com.br/blog/) · [Termos de Uso](https://elden.com.br/termos) · [Privacidade](https://elden.com.br/privacidade)
+
+> Se o Elden ajudou você a evitar uma citação inventada ou economizar tempo na pesquisa de jurisprudência, deixe uma ⭐ **Star** neste repositório para ajudar outros advogados a encontrarem o projeto.
