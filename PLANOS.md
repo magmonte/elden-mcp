@@ -34,6 +34,20 @@ Todos os planos pagos são mensais, sem multa de cancelamento, com garantia lega
 
 ---
 
+## 2B. Por que usar o Elden Grátis em vez de repositórios comunitários estáticos no GitHub?
+
+Projetos abertos comunitários são ótimas iniciativas educacionais, mas costumam trabalhar com *snapshots* estáticos de poucos milhares de acórdãos (ex.: ~11 mil julgados de tribunais superiores) e exigem que o próprio usuário configure, hospede ou atualize a base manualmente.
+
+| Critério | Elden (Plano Grátis Permanente) | Repositórios comunitários estáticos |
+| :--- | :--- | :--- |
+| **Custo** | **R$ 0 / mês** (sem cartão, não expira) | R$ 0 (código aberto) |
+| **Tamanho do acervo** | **Mais de 20 milhões de acórdãos** (STF, STJ, TJs, TRFs via DJEN + Planalto) | Geralmente alguns milhares de acórdãos em *snapshot* |
+| **Atualização** | **Contínua e automática** | Manual / dependente de novo *snapshot* |
+| **Inteligência de busca** | **1ª geração de IAs próprias** (rerank próprio em operação + embedding jurídico em desenvolvimento) | Busca básica / genérica |
+| **Manutenção e suporte** | **Pronto em 2 min via OAuth** + revisão e **suporte humano** | Configuração e manutenção por conta do usuário |
+
+---
+
 ## 3. Perguntas Frequentes sobre os Planos
 
 * **Posso usar o Elden grátis para sempre?** Sim. Não há bloqueio após 7 ou 14 dias. Os limites são renovados em **janelas de 5 horas e ciclos semanais**, e cada ementa retornada já acompanha o link oficial do tribunal para que você possa conferir o inteiro teor diretamente na fonte antes de protocolar.
