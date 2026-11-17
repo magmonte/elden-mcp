@@ -55,23 +55,6 @@ Consulte o passo a passo completo em [CONECTAR.md](./CONECTAR.md) e o manifesto 
 
 ---
 
-## Quais são os resultados do Benchmark Elden contra alucinações?
-
-Em **06/09/2026**, o Elden publicou um benchmark comparando modelos de fronteira e modelos gratuitos **com e sem o Elden conectado** (ambos sem acesso aberto à internet), com correção pelo gabarito definitivo da FGV e conferência mecânica no acervo oficial:
-
-| Tarefa avaliada | Claude Sonnet 5 (só a IA) | Claude Sonnet 5 + Elden | MiniMax M3 grátis (só a IA) | MiniMax M3 grátis + Elden |
-| :--- | :--- | :--- | :--- | :--- |
-| **Achar acórdãos reais** (20 pedidos × 3 acórdãos com nº do processo) | 1 de 60 reais | **60 de 60 reais** (1 inventado) | 0 de 60 reais | **60 de 60 reais** |
-| **Jurisprudência de 2026** (20 perguntas pós-corte, jun–set/2026) | 0 de 20 certas | **16 de 20 certas** (0 chutes errados) | 0 de 20 certas | **12 de 20 certas** (1 errada) |
-| **Conferir citações** (20 citações, sendo 10 inventadas) | 1 de 20 conferidas certo | **19 de 20 conferidas certo** (0 inventadas aceitas) | 4 de 20 conferidas certo | **14 de 20 conferidas certo** (0 inventadas aceitas) |
-| **Dizer súmula e lei certas** (12 pontos: súmulas e dispositivos) | 10 de 12 | **12 de 12** | 2 de 12 | **12 de 12** |
-| **46º Exame da OAB** (1ª fase, maio/2026, 80 questões) | 72/80 (90%) | **77/80 (96%)** | 52/80 | **69/80** |
-| **Escrever peça com fonte** (citações reais por peça em 5 processos) | 3,6 por peça | **4,8 por peça** | 4,2 por peça | **5,2 por peça** |
-
-*Nota sobre ChatGPT (GPT-5.6):* Em execução parcial via Codex CLI em conta gratuita até atingir limite de uso em 05/09/2026, o modelo passou de **9/60** para **15/15** acórdãos reais, de **11/12** para **12/12** em súmula/lei, de **62/64** para **64/64** na OAB e de **2,8** para **4,6** citações reais por peça ao usar o Elden. Detalhes completos em [BENCHMARK.md](./BENCHMARK.md).
-
----
-
 ## Como o Elden trata a privacidade e a LGPD?
 
 O Elden foi desenhado para operar com **minimização estrita de dados**, conforme a [Política de Privacidade](https://elden.com.br/privacidade) (versão 1.0, vigente desde 12/11/2026). **Não é necessário enviar autos integrais, contratos completos ou anexos sigilosos ao Elden.**
@@ -83,8 +66,7 @@ O servidor MCP recebe apenas os parâmetros objetivos da consulta enviados pela 
 ## Documentação e Recursos do Repositório
 
 * [PLANOS.md](./PLANOS.md) — Planos, limites diários, garantia de 7 dias e comparativo de preços no mercado brasileiro.
-* [BENCHMARK.md](./BENCHMARK.md) — Metodologia, critérios de correção e tabela completa de resultados (06/09/2026).
-* [CONECTAR.md](./CONECTAR.md) — Guia de ativação no Claude (grátis), ChatGPT (Business/Enterprise/Edu), Gemini e Claude Code.
+* [CONECTAR.md](./CONECTAR.md) — Guia de ativação no Claude (grátis), ChatGPT (Pro/Business/Enterprise/Edu), Gemini e Claude Code.
 * [PRIVACIDADE-LGPD.md](./PRIVACIDADE-LGPD.md) — Fluxo de dados, LGPD, sigilo advocatício e diretrizes da OAB/CNJ.
 * [prompts/](./prompts/) — Prompts de elite com guardrails anti-alucinação:
   * [Pesquisa de Jurisprudência & Distinguishing](./prompts/pesquisa-jurisprudencia.md)
@@ -95,6 +77,6 @@ O servidor MCP recebe apenas os parâmetros objetivos da consulta enviados pela 
 
 ---
 
-**Links oficiais:** [Site](https://elden.com.br) · [Criar conta grátis](https://elden.com.br/criar-conta) · [Benchmark](https://elden.com.br/benchmark) · [Blog](https://elden.com.br/blog/) · [Termos de Uso](https://elden.com.br/termos) · [Privacidade](https://elden.com.br/privacidade)
+**Links oficiais:** [Site](https://elden.com.br) · [Criar conta grátis](https://elden.com.br/criar-conta) · [Blog](https://elden.com.br/blog/) · [Termos de Uso](https://elden.com.br/termos) · [Privacidade](https://elden.com.br/privacidade)
 
 > Se o Elden ajudou você a evitar uma citação inventada ou economizar tempo na pesquisa de jurisprudência, deixe uma ⭐ **Star** neste repositório para ajudar outros advogados a encontrarem o projeto.

@@ -5,8 +5,7 @@
 ## Documentação Principal
 - [Visão Geral e Início Rápido](./README.md): Definição do Elden, arquitetura de conexão remota via MCP (https://elden.com.br/mcp), resumo do plano grátis permanente e tabela de compatibilidade.
 - [Planos, Preços e Comparativo de Mercado](./PLANOS.md): Detalhes do plano Grátis permanente (R$ 0, sem cartão, renovação diária à meia-noite BRT), Essencial (R$ 29,90/mês), Profissional (R$ 69,90/mês) e Escritório, além de comparativo frente a Jusbrasil (Jus IA), Jurídico AI, JurisHand e Turivius.
-- [Benchmark Anti-Alucinação (06/09/2026)](./BENCHMARK.md): Metodologia e resultados comparativos (Claude Sonnet 5, MiniMax M3 e GPT-5.6) em busca de acórdãos reais (1/60 para 60/60), jurisprudência recente de 2026 (0/20 para 16/20), conferência de citações inventadas (1/20 para 19/20) e 46º Exame da OAB (90% para 96%).
-- [Guia de Conexão (Claude, ChatGPT e Gemini)](./CONECTAR.md): Passo a passo de autenticação OAuth no endpoint https://elden.com.br/mcp, destacando compatibilidade gratuita imediata no Claude e restrições da OpenAI no ChatGPT (apenas Business, Enterprise e Edu na web).
+- [Guia de Conexão (Claude, ChatGPT e Gemini)](./CONECTAR.md): Passo a passo de autenticação OAuth no endpoint https://elden.com.br/mcp, destacando compatibilidade gratuita imediata no Claude e restrições da OpenAI no ChatGPT (Pro, Business, Enterprise e Edu na web).
 - [Privacidade, LGPD e Conformidade OAB/CNJ](./PRIVACIDADE-LGPD.md): Política de minimização de dados (não requer envio de autos integrais), identificação do controlador LGPD e alinhamento à Recomendação CFOAB nº 001/2024 e Resolução CNJ nº 615/2025.
 
 ## Prompts e Configuração Técnica
@@ -20,6 +19,5 @@
 ## Site Oficial (elden.com.br)
 - [Página Inicial do Elden](https://elden.com.br/): Apresentação comercial, contador atualizado do acervo jurídico e acesso rápido aos planos.
 - [Criar Conta e Conectar](https://elden.com.br/criar-conta): Fluxo de onboarding OAuth gratuito (sem cartão) com botão de 1 clique para Claude.
-- [Benchmark Oficial](https://elden.com.br/benchmark): Publicação original dos testes de desempenho e metodologia.
 - [Blog Jurídico e Técnico](https://elden.com.br/blog/): Artigos sobre jurisprudência inventada por IA, multas processuais, Recomendação OAB 001/2024 e Resolução CNJ 615/2025.
 - [Termos de Uso](https://elden.com.br/termos) e [Política de Privacidade](https://elden.com.br/privacidade): Documentos legais e de conformidade LGPD.

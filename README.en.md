@@ -27,19 +27,7 @@ Generic LLMs frequently fabricate case numbers, misquote Brazilian Supreme Court
 
 ---
 
-## Anti-Hallucination Benchmark (06/09/2026)
-
-Evaluated without open web access, graded against the official Brazilian Bar Exam (46th OAB Exam, FGV answer key) and mechanical verification against official court records:
-
-| Task | Claude Sonnet 5 (Base) | Claude Sonnet 5 + Elden |
-| :--- | :--- | :--- |
-| **Real court rulings** (20 prompts × 3 rulings) | 1 / 60 real | **60 / 60 real** |
-| **2026 post-cutoff rulings** (Jun–Sep 2026) | 0 / 20 correct | **16 / 20 correct** (0 hallucinations) |
-| **Citation verification** (20 citations, 10 fabricated) | 1 / 20 verified | **19 / 20 verified** (0 false positives) |
-| **Statutes & Súmulas** (12 points) | 10 / 12 | **12 / 12** |
-| **46th OAB Bar Exam** (80 questions) | 72 / 80 (90%) | **77 / 80 (96%)** |
-
-Full methodology and Portuguese documentation: [README.md](./README.md) · [PLANOS.md](./PLANOS.md) · [BENCHMARK.md](./BENCHMARK.md) · [CONECTAR.md](./CONECTAR.md) · [PRIVACIDADE-LGPD.md](./PRIVACIDADE-LGPD.md).
+Full Portuguese documentation: [README.md](./README.md) · [PLANOS.md](./PLANOS.md) · [CONECTAR.md](./CONECTAR.md) · [PRIVACIDADE-LGPD.md](./PRIVACIDADE-LGPD.md).
 
 ---
 
