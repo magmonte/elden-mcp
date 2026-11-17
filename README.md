@@ -87,6 +87,9 @@ Recursos públicos curados para avaliar o conector MCP do Elden, comparar planos
 
 * **Páginas principais:** [Planos e Preços](https://elden.com.br/planos) · [Benchmark Jurídico (IA sem alucinações)](https://elden.com.br/benchmark) · [Blog Técnico e Jurídico](https://elden.com.br/blog/)
 * **Artigos publicados:**
+  * [MCP de jurisprudência brasileira para Claude e ChatGPT: guia prático para advogados](https://elden.com.br/blog/mcp-jurisprudencia-brasileira-para-claude-e-chatgpt/)
+  * [Como conferir citação de acórdão com IA sem alucinação antes de protocolar](https://elden.com.br/blog/como-conferir-citacao-de-acordao-com-ia-sem-alucinacao/)
+  * [Como pesquisar jurisprudência do STJ e STF no Claude grátis com fonte oficial](https://elden.com.br/blog/como-pesquisar-jurisprudencia-stj-stf-claude-gratis/)
   * [Famílias de IA em novembro de 2026: mapa técnico completo por provedor e projeções para a advocacia](https://elden.com.br/blog/familias-de-modelos-ia-novembro-2026/)
   * [Gemini 4 na advocacia: Carbon, Hydrogen, Argon e 3.8 Flash antes e depois do reajuste](https://elden.com.br/blog/gemini-4-na-advocacia-carbon-hydrogen-argon-flash/)
   * [Claude 5 na advocacia: Fable 5.2, Opus 5.5, Sonnet 5.5 e Haiku 5.5 comparados para o escritório](https://elden.com.br/blog/claude-5-na-advocacia-fable-opus-sonnet-haiku/)
