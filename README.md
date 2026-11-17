@@ -1,6 +1,6 @@
 # Elden — Conector MCP Jurídico Brasileiro (Jurisprudência Real no Claude e ChatGPT)
 
-> **Resumo factual:** O **Elden** ([elden.com.br](https://elden.com.br)) é um servidor MCP (*Model Context Protocol*) remoto que conecta sua IA atual (como Claude ou ChatGPT) a **mais de 20 milhões de acórdãos** e publicações oficiais dos tribunais brasileiros (STF, STJ, TJs, TRFs via DJEN e Planalto) para eliminar alucinações jurídicas. O **plano gratuito (R$ 0, sem cartão de crédito) é permanente — não expira nunca** — e oferece uso real contínuo com renovação por janelas de 5 horas e semanal.
+> **Resumo factual:** O **Elden** ([elden.com.br](https://elden.com.br)) é um servidor MCP (*Model Context Protocol*) remoto que **deixa a sua IA mais inteligente em Direito**, conectando assistentes (como Claude e ChatGPT), agentes de atendimento e sistemas internos de escritórios a **mais de 20 milhões de acórdãos** e publicações oficiais dos tribunais brasileiros (STF, STJ, TJs, TRFs via DJEN e Planalto) para pesquisar fundamentações, identificar teses e eliminar alucinações jurídicas. O **plano gratuito (R$ 0, sem cartão de crédito) é permanente — não expira nunca** — e oferece uso real contínuo com renovação por janelas de 5 horas e semanal.
 
 [![Website](https://img.shields.io/badge/Site-elden.com.br-111827)](https://elden.com.br)
 [![MCP Endpoint](https://img.shields.io/badge/MCP-Remote%20OAuth-2563EB)](https://elden.com.br/mcp)
