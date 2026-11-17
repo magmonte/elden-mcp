@@ -25,7 +25,7 @@ Ou utilize o snippet em [`mcp.json`](./mcp.json):
 ```
 
 ## 3. ChatGPT (OpenAI) — Atenção às Restrições da OpenAI
-- **Planos compatíveis:** **ChatGPT Business, Enterprise e Edu** na **versão web** (plano Pro possui suporte apenas para leitura).
+- **Planos compatíveis:** **ChatGPT Pro, Business, Enterprise e Edu** na **versão web**.
 - **Não compatível:** Contas pessoais **Free** e **Plus**, e aplicativo móvel do ChatGPT (limitação da própria OpenAI para conectores MCP personalizados).
 - Se você usa ChatGPT Free ou Plus, utilize o **Claude gratuito** com o Elden — não há custo adicional.
 
