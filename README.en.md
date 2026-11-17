@@ -1,6 +1,6 @@
 # Elden — Brazilian Legal MCP Server (Verified Case Law & Legislation for Claude and ChatGPT)
 
-> **Summary:** **Elden** ([elden.com.br](https://elden.com.br)) is a remote Model Context Protocol (MCP) server (`https://elden.com.br/mcp`) that **makes your AI smarter in Brazilian law**, connecting your existing AI assistants (Claude, ChatGPT, Cursor), intake agents, and internal law firm systems to **more than 20 million official Brazilian court rulings** (STF, STJ, state and federal courts via DJEN) and federal legislation (Planalto) to understand legal reasoning, identify theses, and eliminate hallucinations. Its **Free tier (R$ 0/month, no credit card required) is permanent — it never expires.**
+> **Summary:** **Elden** ([elden.com.br](https://elden.com.br)) is a remote Brazilian Legal Model Context Protocol (MCP) server (`https://elden.com.br/mcp`) for **hallucination-free Brazilian case law and legislation research**, connecting Claude, ChatGPT, Cursor, intake agents, and internal law firm systems to **more than 20 million official Brazilian court rulings** (STF, STJ, state and federal courts via DJEN) and federal statutes (Planalto). **Works immediately without signup** in open read-only mode (up to **1,000 queries/day per IP**, 30/min, 1/s), and also offers a **permanent Free tier (R$ 0/month, no credit card)** with OAuth for custom styles and memory.
 
 [Versão em Português (README.md)](./README.md)
 

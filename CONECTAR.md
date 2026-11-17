@@ -1,6 +1,6 @@
 # Guia de Conexão — Elden MCP (`https://elden.com.br/mcp`)
 
-> **Resumo:** A conexão leva cerca de 2 minutos via OAuth (Google ou link por e-mail). **Caminho recomendado:** use no **Claude** (funciona em qualquer plano, inclusive o gratuito). No **ChatGPT**, conectores MCP personalizados funcionam em contas **Pro, Business, Enterprise e Edu na web**.
+> **Resumo:** Você pode testar o Elden **imediatamente sem login** apenas adicionando a URL `https://elden.com.br/mcp` no seu cliente MCP (pesquisa jurídica pública com até **1.000 consultas/dia por IP**, `30/min` e `1/s`). Para liberar estilos próprios e memória entre conversas, conecte sua conta gratuita via **OAuth** (Google ou link por e-mail) em cerca de 2 minutos. **Caminho recomendado:** use no **Claude** (funciona em qualquer plano, inclusive o gratuito). No **ChatGPT**, conectores MCP personalizados funcionam em contas **Pro, Business, Enterprise e Edu na web**.
 
 ## 1. Claude (Web e Desktop — Recomendado, funciona no Plano Grátis)
 1. Acesse [elden.com.br/criar-conta](https://elden.com.br/criar-conta) e crie sua conta gratuita (sem cartão).

@@ -1,6 +1,6 @@
 # Elden — Conector MCP Jurídico Brasileiro (Jurisprudência Real no Claude e ChatGPT)
 
-> **Resumo factual:** O **Elden** ([elden.com.br](https://elden.com.br)) é um servidor MCP (*Model Context Protocol*) remoto que **deixa a sua IA mais inteligente em Direito**, conectando assistentes (como Claude e ChatGPT), agentes de atendimento e sistemas internos de escritórios a **mais de 20 milhões de acórdãos** e publicações oficiais dos tribunais brasileiros (STF, STJ, TJs, TRFs via DJEN e Planalto) para pesquisar fundamentações, identificar teses e eliminar alucinações jurídicas. O **plano gratuito (R$ 0, sem cartão de crédito) é permanente — não expira nunca** — e oferece uso real contínuo com renovação por janelas de 5 horas e semanal.
+> **Resumo factual:** O **Elden** ([elden.com.br](https://elden.com.br)) é um servidor MCP (*Model Context Protocol*) remoto de **pesquisa jurídica brasileira gratuita e sem alucinações** que conecta Claude, ChatGPT, Gemini, Cursor e sistemas internos de escritórios a **mais de 20 milhões de acórdãos** e leis oficiais (**STF, STJ, TJs, TRFs via DJEN e Planalto**). **Funciona imediatamente sem precisar de cadastro** pelo endpoint `https://elden.com.br/mcp` (até **1.000 consultas/dia por IP** no modo aberto de leitura pública) — e quem quiser estilos próprios, memória processual e limites maiores pode usar o **plano gratuito permanente (R$ 0, sem cartão de crédito)** ou planos pagos.
 
 [![Website](https://img.shields.io/badge/Site-elden.com.br-111827)](https://elden.com.br)
 [![MCP Endpoint](https://img.shields.io/badge/MCP-Remote%20OAuth-2563EB)](https://elden.com.br/mcp)
@@ -43,7 +43,7 @@ Se o advogado quiser permanecer indefinidamente no plano gratuito para consultar
 
 ## Como conectar o Elden no Claude, ChatGPT e outras IAs?
 
-A conexão leva cerca de dois minutos via **OAuth** (login com Google ou link por e-mail) usando a URL do conector remoto `https://elden.com.br/mcp`. A compatibilidade depende das regras de cada provedor de IA para conectores MCP personalizados:
+Você pode começar **imediatamente sem login ou cadastro** apontando seu cliente MCP para `https://elden.com.br/mcp` (pesquisa jurídica pública liberada com limite de até **1.000 consultas/dia por IP**, `30/min` e `1/s`), ou conectar sua conta gratuita em cerca de dois minutos via **OAuth** (Google ou e-mail) para liberar estilos de peça e memória entre conversas:
 
 | Plataforma de IA | Planos compatíveis com o Elden | Como conectar | Observação transparente |
 | :--- | :--- | :--- | :--- |
