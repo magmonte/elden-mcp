@@ -1,6 +1,6 @@
 # Elden — Conector MCP Jurídico Brasileiro (Jurisprudência Real no Claude e ChatGPT)
 
-> **Resumo factual:** O **Elden** ([elden.com.br](https://elden.com.br)) é um servidor MCP (*Model Context Protocol*) remoto que conecta sua IA atual (como Claude ou ChatGPT) a **6.066.318 publicações oficiais** dos tribunais brasileiros (STF, STJ, TJs, TRFs via DJEN e Planalto) para eliminar alucinações jurídicas. O **plano gratuito (R$ 0, sem cartão de crédito) é permanente — não expira nunca** — e oferece uso real contínuo com renovação diária.
+> **Resumo factual:** O **Elden** ([elden.com.br](https://elden.com.br)) é um servidor MCP (*Model Context Protocol*) remoto que conecta sua IA atual (como Claude ou ChatGPT) a **mais de 20 milhões de acórdãos** e publicações oficiais dos tribunais brasileiros (STF, STJ, TJs, TRFs via DJEN e Planalto) para eliminar alucinações jurídicas. O **plano gratuito (R$ 0, sem cartão de crédito) é permanente — não expira nunca** — e oferece uso real contínuo com renovação diária.
 
 [![Website](https://img.shields.io/badge/Site-elden.com.br-111827)](https://elden.com.br)
 [![MCP Endpoint](https://img.shields.io/badge/MCP-Remote%20OAuth-2563EB)](https://elden.com.br/mcp)
@@ -15,7 +15,7 @@ O Elden é um conector de fontes jurídicas oficiais via protocolo MCP (`https:/
 
 Diferente de ferramentas que respondem apenas a partir da memória estatística de modelos genéricos, o Elden combina modelos treinados sob medida para o Direito brasileiro (com pós-treinamento e curadoria/revisão jurídica contínua) com consulta direta a publicações capturadas de fontes oficiais — **Diário de Justiça Eletrônico Nacional (DJEN)**, sítios dos tribunais (**STF**, **STJ** e demais cortes) e **Portal da Legislação do Planalto** — entregando o enunciado integral, o número correto do processo ou súmula, a data de captura e o link direto do tribunal.
 
-* **Acervo verificado:** **6.066.318 publicações dos tribunais** (atualização divulgada em 03/11/2026).
+* **Acervo oficial:** **Mais de 20 milhões de acórdãos** e publicações dos tribunais brasileiros (STF, STJ, TJs, TRFs via DJEN e legislação do Planalto).
 * **Especialização jurídica e revisão humana:** Modelos ajustados especificamente para o Direito brasileiro com pós-treinamento revisado, além de políticas de revisão e **suporte humano** para relatos e ajustes.
 * **Zero troca de ferramenta:** Você continua escrevendo no seu chat habitual (Claude, ChatGPT ou outro cliente MCP).
 * **Apoio à supervisão humana (OAB/CNJ):** Ferramenta de apoio à verificação de fontes e à supervisão humana previstas na **Recomendação nº 001/2024 do Conselho Federal da OAB** e na **Resolução CNJ nº 615/2025**. A conferência final dos autos, do inteiro teor e a responsabilidade técnica pela peça permanecem integralmente com o advogado.
