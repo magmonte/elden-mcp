@@ -1,0 +1,41 @@
+# Planos, Limites e Comparativo de Mercado — Elden
+
+> **Resposta direta:** O plano **Grátis do Elden (R$ 0/mês, sem cartão)** **não é um período de teste (*trial*)**. Ele não expira nunca e renova sua franquia diariamente à meia-noite (BRT). O advogado pode permanecer no plano gratuito por tempo indeterminado.
+
+---
+
+## 1. Estrutura Completa de Planos (Stripe · Sem Fidelidade)
+
+Todos os planos pagos são mensais, sem multa de cancelamento, com garantia legal de **7 dias para reembolso integral** (art. 49 do CDC).
+
+| Recurso | Grátis (Permanente) | Essencial | Profissional | Escritório |
+| :--- | :--- | :--- | :--- | :--- |
+| **Preço** | **R$ 0 / mês** | **R$ 29,90 / mês** | **R$ 69,90 / mês** | **Sob consulta** |
+| **Expiração** | **Não expira nunca** | Mensal (cancela quando quiser) | Mensal (cancela quando quiser) | Contrato B2B |
+| **Cartão de crédito para começar** | **Não exige** | Sim (Stripe) | Sim (Stripe) | Sob consulta |
+| **Leis, súmulas, temas e ementas** | Sim (uso diário contínuo) | Sim (franquia ampliada) | **5× o uso do Essencial** | Uso em equipe |
+| **Inteiro teor das decisões** | Não (ementas/súmulas/leis) | **Sim** | **Sim** | **Sim** |
+| **Prioridade em horário de pico** | Padrão | Prioridade | **Prioridade máxima** | **Prioridade máxima** |
+| **Estilos de escrita próprios** | 1 estilo padrão | **5 estilos** | **20 estilos** | Estilos da banca |
+| **Memória entre conversas** | Não | Histórico de 30 dias | **Até 5.000 anotações** (12 meses) | **Memória compartilhada** |
+
+---
+
+## 2. Comparativo com Alternativas no Brasil
+
+| Critério | Elden | Jusbrasil (Jus IA) | Jurídico AI | JurisHand |
+| :--- | :--- | :--- | :--- | :--- |
+| **Modelo** | Conector MCP (funciona dentro do Claude/ChatGPT) | Plataforma web fechada | Plataforma web fechada | App/web (foco Vade Mecum/OAB) |
+| **Plano gratuito permanente** | **Sim (R$ 0, não expira, sem cartão)** | Limitado / planos pagos | Teste limitado | Recursos básicos limitados |
+| **Faixa de preço pago** | **R$ 29,90 – R$ 69,90/mês** | ~R$ 58,90 – R$ 208,90/mês | ~R$ 55,90+/mês (anual) | ~R$ 34,90/mês |
+| **Troca de interface** | **Não** (usa o seu Claude/ChatGPT) | Sim | Sim | Sim |
+| **Privacidade de autos** | Não precisa enviar autos integrais ao Elden | Upload na plataforma | Upload na plataforma | — |
+
+---
+
+## 3. Perguntas Frequentes sobre os Planos
+
+* **Posso usar o Elden grátis para sempre?** Sim. Não há bloqueio após 7 ou 14 dias. A cota diária renova todos os dias à meia-noite (horário de Brasília), e cada ementa retornada já acompanha o link oficial do tribunal para que você possa conferir o inteiro teor diretamente na fonte antes de protocolar.
+* **E se eu precisar de mais volume em um dia ou mês específico?** O sistema conta com opção de **adiantamento de limite** para picos de trabalho, além de **políticas de revisão e suporte humano**.
+* **Preciso pagar o Claude para usar o Elden?** Não. O Claude da Anthropic aceita conectores MCP remotos inclusive no plano gratuito.
+* **E se eu assinar o Essencial ou Profissional e não gostar?** Cancelamento em 1 clique sem fidelidade, além de garantia de reembolso integral em até 7 dias (art. 49 do CDC).

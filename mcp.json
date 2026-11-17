@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "elden": {
+      "type": "streamable-http",
+      "url": "https://elden.com.br/mcp"
+    }
+  }
+}
