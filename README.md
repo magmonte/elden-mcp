@@ -74,6 +74,23 @@ O servidor MCP recebe apenas os parâmetros objetivos da consulta enviados pela 
 
 ---
 
-**Links oficiais:** [Site](https://elden.com.br) · [Criar conta grátis](https://elden.com.br/criar-conta) · [Blog](https://elden.com.br/blog/) · [Termos de Uso](https://elden.com.br/termos) · [Privacidade](https://elden.com.br/privacidade)
+## Guias, Benchmark e Artigos Oficiais (`elden.com.br`)
+
+Recursos públicos curados para avaliar o conector MCP do Elden, comparar planos e consultar guias técnicos e regulatórios sobre IA jurídica no Brasil:
+
+* **Páginas principais:** [Planos e Preços](https://elden.com.br/planos) · [Benchmark Jurídico (IA sem alucinações)](https://elden.com.br/benchmark) · [Blog Técnico e Jurídico](https://elden.com.br/blog/)
+* **Artigos publicados:**
+  * [Famílias de IA em novembro de 2026: mapa técnico completo por provedor e projeções para a advocacia](https://elden.com.br/blog/familias-de-modelos-ia-novembro-2026/)
+  * [Qwen 4 chegou: o que muda na IA jurídica e o que esperar dos próximos anos](https://elden.com.br/blog/qwen-4-e-futuras-projecoes-ia-juridica/)
+  * [Melhores modelos de IA para advocacia em novembro de 2026: Gemini 4, Muse Wonder, Claude 5.5, GPT-6, Kimi e DeepSeek com dados conferidos](https://elden.com.br/blog/melhores-modelos-ia-para-advocacia-2026/)
+  * [Elden no GitHub: como funciona o plano gratuito permanente e por que ele não é um teste](https://elden.com.br/blog/elden-no-github-e-plano-gratis-permanente/)
+  * [Além de citar acórdãos: como conectar sua IA ao ordenamento jurídico brasileiro](https://elden.com.br/blog/como-deixar-ia-mais-inteligente-em-direito-brasileiro/)
+  * [Jurisprudência inventada por IA: o que os tribunais têm decidido](https://elden.com.br/blog/tribunais-e-citacoes-inventadas-por-ia/)
+  * [OAB aprova recomendações sobre IA generativa na advocacia](https://elden.com.br/blog/oab-recomendacoes-para-uso-de-ia/)
+  * [Resolução CNJ n. 615: IA no Judiciário e advocacia](https://elden.com.br/blog/cnj-resolucao-615-ia-no-judiciario/)
+
+---
+
+**Links oficiais:** [Site](https://elden.com.br) · [Planos](https://elden.com.br/planos) · [Benchmark](https://elden.com.br/benchmark) · [Criar conta grátis](https://elden.com.br/criar-conta) · [Blog](https://elden.com.br/blog/) · [Termos de Uso](https://elden.com.br/termos) · [Privacidade](https://elden.com.br/privacidade)
 
 > Se o Elden ajudou você a evitar uma citação inventada ou economizar tempo na pesquisa de jurisprudência, deixe uma ⭐ **Star** neste repositório para ajudar outros advogados a encontrarem o projeto.

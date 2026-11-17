@@ -15,6 +15,18 @@
 
 ## Site Oficial (elden.com.br)
 - [Página Inicial do Elden](https://elden.com.br/): Apresentação comercial, contador atualizado do acervo jurídico e acesso rápido aos planos.
+- [Planos e Preços](https://elden.com.br/planos): Detalhamento dos planos Grátis permanente, Essencial, Profissional e Escritório com garantia de 7 dias.
+- [Benchmark Elden](https://elden.com.br/benchmark): Avaliação pública de IA jurídica sem alucinações e verificação de precedentes.
 - [Criar Conta e Conectar](https://elden.com.br/criar-conta): Fluxo de onboarding OAuth gratuito (sem cartão) com botão de 1 clique para Claude.
 - [Blog Jurídico e Técnico](https://elden.com.br/blog/): Artigos sobre jurisprudência inventada por IA, multas processuais, Recomendação OAB 001/2024 e Resolução CNJ 615/2025.
 - [Termos de Uso](https://elden.com.br/termos) e [Política de Privacidade](https://elden.com.br/privacidade): Documentos legais e de conformidade LGPD.
+
+## Artigos Publicados no Blog
+- [Famílias de IA em novembro de 2026: mapa técnico completo por provedor e projeções para a advocacia](https://elden.com.br/blog/familias-de-modelos-ia-novembro-2026/)
+- [Qwen 4 chegou: o que muda na IA jurídica e o que esperar dos próximos anos](https://elden.com.br/blog/qwen-4-e-futuras-projecoes-ia-juridica/)
+- [Melhores modelos de IA para advocacia em novembro de 2026: Gemini 4, Muse Wonder, Claude 5.5, GPT-6, Kimi e DeepSeek com dados conferidos](https://elden.com.br/blog/melhores-modelos-ia-para-advocacia-2026/)
+- [Elden no GitHub: como funciona o plano gratuito permanente e por que ele não é um teste](https://elden.com.br/blog/elden-no-github-e-plano-gratis-permanente/)
+- [Além de citar acórdãos: como conectar sua IA ao ordenamento jurídico brasileiro](https://elden.com.br/blog/como-deixar-ia-mais-inteligente-em-direito-brasileiro/)
+- [Jurisprudência inventada por IA: o que os tribunais têm decidido](https://elden.com.br/blog/tribunais-e-citacoes-inventadas-por-ia/)
+- [OAB aprova recomendações sobre IA generativa na advocacia](https://elden.com.br/blog/oab-recomendacoes-para-uso-de-ia/)
+- [Resolução CNJ n. 615: IA no Judiciário e advocacia](https://elden.com.br/blog/cnj-resolucao-615-ia-no-judiciario/)

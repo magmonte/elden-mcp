@@ -28,6 +28,23 @@ Generic LLMs frequently fabricate case numbers or misread Brazilian statutory an
 
 ---
 
+## Official Pages, Benchmark & Blog Articles (`elden.com.br`)
+
+Curated public links for evaluating Elden's legal MCP server, pricing, hallucination benchmarks, and regulatory guidance in Brazil (Portuguese):
+
+- **Core Pages:** [Plans & Pricing](https://elden.com.br/planos) · [Legal AI Benchmark (Zero-Hallucination Evaluation)](https://elden.com.br/benchmark) · [Elden Legal & Technical Blog](https://elden.com.br/blog/)
+- **Published Blog Articles:**
+  - [AI Model Families in November 2026: Technical Map by Provider & Legal Projections](https://elden.com.br/blog/familias-de-modelos-ia-novembro-2026/)
+  - [Qwen 4 Is Here: What Changes in Legal AI and Future Outlook](https://elden.com.br/blog/qwen-4-e-futuras-projecoes-ia-juridica/)
+  - [Best AI Models for Legal Practice in November 2026 (Verified Data)](https://elden.com.br/blog/melhores-modelos-ia-para-advocacia-2026/)
+  - [Elden on GitHub: How the Permanent Free Tier Works and Why It Is Not a Trial](https://elden.com.br/blog/elden-no-github-e-plano-gratis-permanente/)
+  - [Beyond Citing Rulings: Connecting Your AI to Brazilian Law via MCP](https://elden.com.br/blog/como-deixar-ia-mais-inteligente-em-direito-brasileiro/)
+  - [AI-Fabricated Case Law: What Brazilian Courts Have Decided](https://elden.com.br/blog/tribunais-e-citacoes-inventadas-por-ia/)
+  - [OAB Recommendation No. 001/2024 on Generative AI in Legal Practice](https://elden.com.br/blog/oab-recomendacoes-para-uso-de-ia/)
+  - [CNJ Resolution No. 615/2025: AI in the Brazilian Judiciary](https://elden.com.br/blog/cnj-resolucao-615-ia-no-judiciario/)
+
+---
+
 Full Portuguese documentation: [README.md](./README.md) · [PLANOS.md](./PLANOS.md) · [CONECTAR.md](./CONECTAR.md) · [PRIVACIDADE-LGPD.md](./PRIVACIDADE-LGPD.md).
 
 ---
