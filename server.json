@@ -2,9 +2,13 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "br.com.elden/jurisprudencia-mcp",
   "title": "Elden — Jurisprudência e Legislação Brasileira (MCP)",
-  "description": "Conector MCP remoto gratuito e permanente (R$ 0, sem cartão) que conecta Claude, ChatGPT e clientes MCP a mais de 20 milhões de acórdãos e publicações oficiais dos tribunais brasileiros (STF, STJ, DJEN e Planalto) para eliminar alucinações jurídicas.",
-  "version": "1.0.0",
+  "description": "20M+ acórdãos (STF, STJ, DJEN) e leis na sua IA sem alucinação. Plano grátis permanente.",
+  "version": "1.1.0",
   "websiteUrl": "https://elden.com.br",
+  "repository": {
+    "url": "https://github.com/magmonte/elden-mcp",
+    "source": "github"
+  },
   "remotes": [
     {
       "type": "streamable-http",
