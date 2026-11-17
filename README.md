@@ -32,7 +32,7 @@ Se o advogado quiser permanecer indefinidamente no plano gratuito para consultar
 | Plano | Preço | Expiração / Cartão | Principais entregas |
 | :--- | :--- | :--- | :--- |
 | **Grátis** | **R$ 0 / mês** | **Não expira nunca** · Sem cartão | Até **3 resultados por busca**; degustação de **`buscar_fundamentacao` (2 usos / 5h)**; estilo forense padrão (somente leitura); histórico de **7 dias**; janelas de 5h e semanais (a própria IA avisa ao bater o limite). |
-| **Essencial** | **R$ 29,90 / mês** | Mensal · Garantia de 7 dias (CDC) | **`buscar_fundamentacao` liberado**, `dossie_precedente`, `pesquisar_questao` e `conferir_transcricao`; até **8 resultados/busca**; adiantamento de limite; **5 estilos de escrita próprios** (criar/editar); **memória entre conversas (até 100 anotações, expansível em +500 por +R$ 9,90/mês)**; histórico de **30 dias**. |
+| **Essencial** | **R$ 29,90 / mês** | Mensal · Garantia de 7 dias (CDC) | **`buscar_fundamentacao` liberado**, `dossie_precedente`, `pesquisar_questao` e `conferir_transcricao`; até **8 resultados/busca**; adiantamento de limite; **5 estilos de escrita próprios** (criar/editar); **memória entre conversas (até 100 anotações)**; histórico de **30 dias**. |
 | **Profissional** | **R$ 69,90 / mês** | Mensal · Garantia de 7 dias (CDC) | Todas as ferramentas sem trava e até **15 resultados/busca**; **5× o uso do Essencial**; adiantamento de limite e prioridade máxima; **memória ampla (até 5.000 anotações)**; **20 estilos de escrita próprios**; histórico de **12 meses**. |
 | **Escritório** | Sob consulta | B2B · Gestão por administrador | Memória compartilhada (até 20.000 anotações), até 50 estilos da banca e gerenciamento de membros pelo administrador. |
 

@@ -4,7 +4,7 @@
 
 ## Documentação Principal
 - [Visão Geral e Início Rápido](./README.md): Definição do Elden, arquitetura de conexão remota via MCP (https://elden.com.br/mcp), resumo do plano grátis permanente e tabela de compatibilidade.
-- [Planos, Preços e Comparativo de Mercado](./PLANOS.md): Detalhes do plano Grátis permanente (R$ 0, sem cartão, até 3 resultados/busca, 2 usos/5h de buscar_fundamentacao, estilo padrão e aviso automático pela IA ao atingir o limite), Essencial (R$ 29,90/mês, 5 estilos próprios, ferramentas estratégicas, adiantamento de janela, até 8 resultados/busca e memória de até 100 anotações expansível em +500 por +R$ 9,90), Profissional (R$ 69,90/mês, 20 estilos, até 15 resultados/busca e memória de 5.000 anotações) e Escritório.
+- [Planos, Preços e Comparativo de Mercado](./PLANOS.md): Detalhes do plano Grátis permanente (R$ 0, sem cartão, até 3 resultados/busca, 2 usos/5h de buscar_fundamentacao, estilo padrão e aviso automático pela IA ao atingir o limite), Essencial (R$ 29,90/mês, 5 estilos próprios, ferramentas estratégicas, adiantamento de janela, até 8 resultados/busca e memória de até 100 anotações), Profissional (R$ 69,90/mês, 20 estilos, até 15 resultados/busca e memória de 5.000 anotações) e Escritório.
 - [Guia de Conexão (Claude, ChatGPT e Gemini)](./CONECTAR.md): Passo a passo de autenticação OAuth no endpoint https://elden.com.br/mcp, destacando compatibilidade gratuita imediata no Claude e restrições da OpenAI no ChatGPT (Pro, Business, Enterprise e Edu na web).
 - [Privacidade, LGPD e Conformidade OAB/CNJ](./PRIVACIDADE-LGPD.md): Política de minimização de dados (não requer envio de autos integrais), identificação do controlador LGPD e alinhamento à Recomendação CFOAB nº 001/2024 e Resolução CNJ nº 615/2025.
 
