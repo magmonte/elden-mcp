@@ -74,6 +74,7 @@ Mais detalhes técnicos e regulatórios (OAB / CNJ / LGPD) em [SECURITY.md](./SE
 * [CONECTAR.md](./CONECTAR.md) — Guia de ativação no Claude (grátis), ChatGPT (Pro/Business/Enterprise/Edu), Gemini e Claude Code.
 * [SECURITY.md](./SECURITY.md) — Princípios de segurança, criptografia e canal oficial para relato de vulnerabilidades.
 * [PRIVACIDADE-LGPD.md](./PRIVACIDADE-LGPD.md) — Fluxo de dados, zero comercialização, LGPD, sigilo advocatício e diretrizes da OAB/CNJ.
+* [datajud-local/](./datajud-local/README.md) — Conector MCP local em Python puro para consultar andamentos processuais na API pública do DataJud (CNJ) com a sua própria chave.
 * [CHANGELOG.md](./CHANGELOG.md) — Histórico público de atualizações do acervo, modelos próprios e integrações.
 * [server.json](./server.json) e [mcp.json](./mcp.json) — Manifestos de especificação MCP para diretórios e clientes compatíveis.
 * [README.en.md](./README.en.md) — English overview for international MCP directories and legal ops teams.
