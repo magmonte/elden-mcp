@@ -35,6 +35,11 @@ Curated public links for evaluating Elden's legal MCP server, pricing, hallucina
 - **Core Pages:** [Plans & Pricing](https://elden.com.br/planos) · [Legal AI Benchmark (Zero-Hallucination Evaluation)](https://elden.com.br/benchmark) · [Elden Legal & Technical Blog](https://elden.com.br/blog/)
 - **Published Blog Articles:**
   - [AI Model Families in November 2026: Technical Map by Provider & Legal Projections](https://elden.com.br/blog/familias-de-modelos-ia-novembro-2026/)
+  - [Google Gemini 4 in Legal Practice: Carbon, Hydrogen, Argon & 3.8 Flash](https://elden.com.br/blog/gemini-4-na-advocacia-carbon-hydrogen-argon-flash/)
+  - [Anthropic Claude 5 in Legal Practice: Fable 5.2, Opus 5.5, Sonnet 5.5 & Haiku 5.5](https://elden.com.br/blog/claude-5-na-advocacia-fable-opus-sonnet-haiku/)
+  - [OpenAI GPT-6 in Legal Practice: Astra, Sol, Terra, Luna & GPT-5.5](https://elden.com.br/blog/gpt-6-na-advocacia-astra-sol-terra-luna/)
+  - [Meta Muse in Legal Practice: Wonder, Spark 1.3, Ember & Spark Open 816B](https://elden.com.br/blog/meta-muse-na-advocacia-wonder-spark-ember/)
+  - [Asian & Open-Weights AI Models in Legal Practice: DeepSeek V4.1, Kimi K3.1, GLM-5.3 & MiniMax M3](https://elden.com.br/blog/ias-asiaticas-pesos-abertos-advocacia-deepseek-kimi-glm-minimax/)
   - [Qwen 4 Is Here: What Changes in Legal AI and Future Outlook](https://elden.com.br/blog/qwen-4-e-futuras-projecoes-ia-juridica/)
   - [Best AI Models for Legal Practice in November 2026 (Verified Data)](https://elden.com.br/blog/melhores-modelos-ia-para-advocacia-2026/)
   - [Elden on GitHub: How the Permanent Free Tier Works and Why It Is Not a Trial](https://elden.com.br/blog/elden-no-github-e-plano-gratis-permanente/)
