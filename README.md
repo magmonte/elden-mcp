@@ -60,7 +60,7 @@ Consulte o passo a passo completo em [CONECTAR.md](./CONECTAR.md) e o manifesto 
 
 O Elden foi projetado para que **advogados e escritórios possam utilizar a plataforma sem medo**, unindo minimização estrita de dados, criptografia e compromisso absoluto de confidencialidade ([Política de Privacidade v1.0](https://elden.com.br/privacidade)):
 
-* **Criptografia em trânsito e em repouso:** toda comunicação com `https://elden.com.br/mcp` usa **HTTPS/TLS** com proteção de borda; anotações de memória contextual são armazenadas **de forma cifrada e isoladas por conta**; chaves de API e tokens OAuth/sessão ficam protegidos por **hash irreversível** (nunca em texto puro), com **revogação em tempo real** no painel; backups são cifrados e logs operacionais omitem credenciais e conteúdos de consultas.
+* **Criptografia em trânsito e em repouso:** toda comunicação com `https://elden.com.br/mcp` usa **HTTPS/TLS**; anotações de memória contextual e cópias de segurança são armazenadas de forma **cifrada e isoladas por conta**; chaves de acesso e tokens OAuth são protegidos por **hash irreversível**, com **revogação em tempo real** pelo usuário.
 * **Recomendamos não enviar dados sensíveis:** **não é necessário enviar autos integrais, contratos, nomes de partes, CPF/RG ou anexos sigilosos** ao Elden. O servidor recebe apenas os parâmetros objetivos da pesquisa enviados pela IA — formule as consultas em **tese jurídica**, mantendo autos e documentos exclusivamente no provedor de IA de sua escolha.
 * **Zero comercialização de dados (mesmo que algo sensível seja enviado):** mesmo que um usuário acabe incluindo alguma informação sensível em uma busca ou anotação, **nós nunca vendemos, alugamos, cedemos para publicidade ou comercializamos nenhum dado**. Suas memórias e preferências são isoladas por conta, sem rastreadores publicitários, e podem ser apagadas diretamente por você a qualquer momento.
 
@@ -72,7 +72,7 @@ Mais detalhes técnicos e regulatórios (OAB / CNJ / LGPD) em [SECURITY.md](./SE
 
 * [PLANOS.md](./PLANOS.md) — Planos, limites em janelas de 5 horas e semanais, garantia de 7 dias e comparativo de preços no mercado brasileiro.
 * [CONECTAR.md](./CONECTAR.md) — Guia de ativação no Claude (grátis), ChatGPT (Pro/Business/Enterprise/Edu), Gemini e Claude Code.
-* [SECURITY.md](./SECURITY.md) — Controles técnicos de segurança, criptografia, OAuth e canal para relato de vulnerabilidades.
+* [SECURITY.md](./SECURITY.md) — Princípios de segurança, criptografia e canal oficial para relato de vulnerabilidades.
 * [PRIVACIDADE-LGPD.md](./PRIVACIDADE-LGPD.md) — Fluxo de dados, zero comercialização, LGPD, sigilo advocatício e diretrizes da OAB/CNJ.
 * [CHANGELOG.md](./CHANGELOG.md) — Histórico público de atualizações do acervo, modelos próprios e integrações.
 * [server.json](./server.json) e [mcp.json](./mcp.json) — Manifestos de especificação MCP para diretórios e clientes compatíveis.
