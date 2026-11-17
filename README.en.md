@@ -8,10 +8,11 @@
 
 ## Why Elden?
 
-Generic LLMs frequently fabricate case numbers, misquote Brazilian Supreme Court (STF) or Superior Court of Justice (STJ) rulings, or rely on outdated statutes. Instead of forcing lawyers to abandon Claude or ChatGPT for an expensive closed platform, Elden plugs directly into their existing chat via **OAuth + Remote MCP**:
+Generic LLMs frequently fabricate case numbers or misread Brazilian statutory and case law nuances. Instead of forcing firms into a single closed platform, Elden connects via **OAuth + Remote MCP** to make any AI system genuinely smarter in Brazilian law — not only for citing rulings, but for **reading legal reasoning, understanding how Brazilian law works in detail, and identifying legal theses**:
 
 - **20M+ Official Court Rulings & Legislation:** Indexed from official sources (DJEN, STF, STJ, and Planalto), returning full statements, exact case numbers, dates, and direct court links.
-- **1st-Generation Proprietary Legal AI Models:** Heavily post-trained and human-reviewed models built for Brazilian law — already operating a **proprietary legal reranker** (100% Top-1 / MRR@10 = 1.00 in internal legal retrieval evaluation vs. 87.5%–91.7% for generic baseline models) with a **proprietary legal embedding model** under active development, backed by human review and support policies.
+- **Built for Multiple Legal Workflows & Internal Systems:** Use it in daily chat for drafting legal briefs, in **AI legal intake/customer service agents** (to identify viable legal theses), or plug it into **multiple internal law firm systems** via standard MCP.
+- **1st-Generation Proprietary Legal AI Models:** Heavily post-trained and human-reviewed models built for Brazilian law — already operating a **proprietary legal reranker** with a **proprietary legal embedding model** under active development, backed by human review and support policies.
 - **Strict Data Minimization (LGPD):** No need to upload full case files or confidential attachments to Elden; only objective search parameters are sent by the AI.
 - **Permanent Free Tier:** Not a limited-time trial. Usage quotas reset in **5-hour rolling windows and weekly cycles**, with **limit advances** available for demand spikes and paid plans starting at R$ 29.90/month (Essencial) and R$ 69.90/month (Profissional).
 

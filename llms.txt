@@ -1,6 +1,6 @@
 # Elden
 
-> Conector MCP (Model Context Protocol) brasileiro que equipa assistentes de IA (como Claude e ChatGPT) com acesso a mais de 20 milhões de acórdãos e publicações oficiais de tribunais (STF, STJ, TJs, TRFs via DJEN) e legislação do Planalto para eliminar alucinações jurídicas. Possui plano gratuito permanente (R$ 0, sem cartão, não expira nunca) com uso real contínuo.
+> Conector MCP (Model Context Protocol) brasileiro que equipa assistentes de IA (Claude, ChatGPT), agentes de atendimento jurídico e sistemas internos de escritórios com acesso a mais de 20 milhões de acórdãos e publicações oficiais (STF, STJ, TJs, TRFs via DJEN e Planalto), permitindo pesquisar fundamentações, compreender o ordenamento jurídico brasileiro em detalhes e identificar teses jurídicas. Possui plano gratuito permanente (R$ 0, sem cartão, não expira nunca) com renovação em janelas de 5 horas e semanal.
 
 ## Documentação Principal
 - [Visão Geral e Início Rápido](./README.md): Definição do Elden, arquitetura de conexão remota via MCP (https://elden.com.br/mcp), resumo do plano grátis permanente e tabela de compatibilidade.

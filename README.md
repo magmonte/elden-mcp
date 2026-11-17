@@ -10,15 +10,15 @@
 
 ---
 
-## O que é o Elden e como ele evita alucinações jurídicas?
+## O que é o Elden e como ele deixa a sua IA mais inteligente em Direito?
 
-O Elden é um conector de fontes jurídicas oficiais via protocolo MCP (`https://elden.com.br/mcp`) desenvolvido no Brasil pela Pacheco Monteiro Advocacia. Em vez de substituir o assistente de IA que o advogado já utiliza, o Elden equipa o Claude, o ChatGPT ou clientes compatíveis para consultar leis, súmulas e acórdãos reais antes de responder.
+O Elden é um serviço MCP (*Model Context Protocol*) remoto (`https://elden.com.br/mcp`) desenvolvido no Brasil pela Pacheco Monteiro Advocacia. Em vez de substituir suas ferramentas atuais, o Elden equipa o Claude, o ChatGPT, agentes internos ou qualquer sistema compatível para **ler, pesquisar fundamentações e compreender como o ordenamento jurídico brasileiro funciona em miúdos**.
 
-Diferente de ferramentas que respondem apenas a partir da memória estatística de modelos genéricos, o Elden está na **1ª geração de criação de IA própria para o Direito brasileiro** (com pós-treinamento pesado e curadoria/revisão jurídica contínua): já opera com **modelo próprio de *rerank* (reordenação jurídica)** e tem **modelo próprio de *embedding* jurídico em desenvolvimento**, combinados com consulta direta a publicações capturadas de fontes oficiais — **Diário de Justiça Eletrônico Nacional (DJEN)**, sítios dos tribunais (**STF**, **STJ** e demais cortes) e **Portal da Legislação do Planalto** — entregando o enunciado integral, o número correto do processo ou súmula, a data de captura e o link direto do tribunal.
+O Elden **não serve apenas para citar precedentes**: ao consultar publicações capturadas de fontes oficiais — **Diário de Justiça Eletrônico Nacional (DJEN)**, sítios dos tribunais (**STF**, **STJ** e demais cortes) e **Portal da Legislação do Planalto** — e combiná-las com a **1ª geração de IAs próprias do Elden para o Direito brasileiro** (modelo próprio de *rerank* jurídico já em operação e modelo próprio de *embedding* jurídico em desenvolvimento, com pós-treinamento pesado e revisado), a sua IA passa a identificar teses jurídicas, conexões normativas e razões de decidir com precisão real, entregando enunciado integral, número exato, data de captura e link direto do tribunal.
 
 * **Acervo oficial:** **Mais de 20 milhões de acórdãos** e publicações dos tribunais brasileiros (STF, STJ, TJs, TRFs via DJEN e legislação do Planalto).
-* **1ª geração de IAs próprias para o Direito brasileiro:** Modelo próprio de *rerank* jurídico já em operação (atingindo **100% Top-1 / MRR@10 = 1,00** na avaliação comparativa interna de recuperação jurídica, contra 87,5%–91,7% de modelos genéricos de referência) e modelo próprio de *embedding* jurídico em desenvolvimento, além de políticas de revisão e **suporte humano**.
-* **Zero troca de ferramenta:** Você continua escrevendo no seu chat habitual (Claude, ChatGPT ou outro cliente MCP).
+* **Para qualquer sistema ou agente jurídico do escritório:** Como é um servidor MCP padrão, você pode ligar o Elden tanto no chat do dia a dia (elaboração e revisão de peças) quanto em **agentes de atendimento jurídico por IA** (triagem e identificação de teses) ou em **outros sistemas internos do escritório** que mexam com Direito.
+* **1ª geração de IAs próprias e suporte humano:** Modelo próprio de *rerank* jurídico em operação e modelo próprio de *embedding* jurídico em desenvolvimento, além de políticas formais de revisão e **suporte humano**.
 * **Apoio à supervisão humana (OAB/CNJ):** Ferramenta de apoio à verificação de fontes e à supervisão humana previstas na **Recomendação nº 001/2024 do Conselho Federal da OAB** e na **Resolução CNJ nº 615/2025**. A conferência final dos autos, do inteiro teor e a responsabilidade técnica pela peça permanecem integralmente com o advogado.
 
 ---
