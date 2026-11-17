@@ -1,6 +1,6 @@
 # Elden — Conector MCP Jurídico Brasileiro (Jurisprudência Real no Claude e ChatGPT)
 
-> **Resumo factual:** O **Elden** ([elden.com.br](https://elden.com.br)) é um servidor MCP (*Model Context Protocol*) remoto que conecta sua IA atual (como Claude ou ChatGPT) a **mais de 20 milhões de acórdãos** e publicações oficiais dos tribunais brasileiros (STF, STJ, TJs, TRFs via DJEN e Planalto) para eliminar alucinações jurídicas. O **plano gratuito (R$ 0, sem cartão de crédito) é permanente — não expira nunca** — e oferece uso real contínuo com renovação diária.
+> **Resumo factual:** O **Elden** ([elden.com.br](https://elden.com.br)) é um servidor MCP (*Model Context Protocol*) remoto que conecta sua IA atual (como Claude ou ChatGPT) a **mais de 20 milhões de acórdãos** e publicações oficiais dos tribunais brasileiros (STF, STJ, TJs, TRFs via DJEN e Planalto) para eliminar alucinações jurídicas. O **plano gratuito (R$ 0, sem cartão de crédito) é permanente — não expira nunca** — e oferece uso real contínuo com renovação por janelas de 5 horas e semanal.
 
 [![Website](https://img.shields.io/badge/Site-elden.com.br-111827)](https://elden.com.br)
 [![MCP Endpoint](https://img.shields.io/badge/MCP-Remote%20OAuth-2563EB)](https://elden.com.br/mcp)
@@ -25,13 +25,13 @@ Diferente de ferramentas que respondem apenas a partir da memória estatística 
 
 ## O plano gratuito do Elden é um teste temporário?
 
-**Não. O plano Grátis do Elden (R$ 0, sem cartão de crédito) não é um *trial* e não expira nunca.** Ele foi estruturado para uso real contínuo no dia a dia da advocacia, com franquia diária de consultas que renova automaticamente todos os dias à meia-noite (horário de Brasília).
+**Não. O plano Grátis do Elden (R$ 0, sem cartão de crédito) não é um *trial* e não expira nunca.** Ele foi estruturado para uso real contínuo no dia a dia da advocacia, com franquia renovada automaticamente em **janelas de 5 horas e limite semanal**.
 
 Se o advogado quiser permanecer indefinidamente no plano gratuito para consultar leis, súmulas, temas e ementas dos acórdãos com um estilo padrão de peça, ele pode fazê-lo sem cobrança e sem prazo de validade (cada ementa já traz o **link oficial do tribunal** para consulta direta ao inteiro teor na fonte antes de protocolar). Os planos pagos existem para quem precisa do **inteiro teor das decisões direto na conversa**, maior volume, **adiantamento de limite** quando houver pico de demanda, prioridade em horário de pico, múltiplos estilos de escrita e memória processual entre conversas.
 
 | Plano | Preço | Expiração / Cartão | Principais entregas |
 | :--- | :--- | :--- | :--- |
-| **Grátis** | **R$ 0 / mês** | **Não expira nunca** · Sem cartão | Consulta a leis, súmulas, temas e ementas dos acórdãos; 1 estilo padrão de peça; renovação diária à meia-noite (BRT). |
+| **Grátis** | **R$ 0 / mês** | **Não expira nunca** · Sem cartão | Consulta a leis, súmulas, temas e ementas dos acórdãos; 1 estilo padrão de peça; limites em janelas de 5 horas e semanais. |
 | **Essencial** | **R$ 29,90 / mês** | Mensal · Garantia de 7 dias (CDC) | Inteiro teor das decisões; franquia ampliada vs. Grátis; prioridade em horário de pico; **5 estilos de escrita**; histórico de **30 dias**. |
 | **Profissional** | **R$ 69,90 / mês** | Mensal · Garantia de 7 dias (CDC) | Todas as ferramentas de pesquisa; **5× o uso do Essencial**; prioridade máxima; **memória entre conversas** (até **5.000 anotações**); **20 estilos de escrita**; histórico de **12 meses**. |
 | **Escritório** | Sob consulta | B2B · Gestão por administrador | Memória compartilhada e gerenciamento de membros pelo administrador do escritório. |
@@ -65,7 +65,7 @@ O servidor MCP recebe apenas os parâmetros objetivos da consulta enviados pela 
 
 ## Documentação e Recursos do Repositório
 
-* [PLANOS.md](./PLANOS.md) — Planos, limites diários, garantia de 7 dias e comparativo de preços no mercado brasileiro.
+* [PLANOS.md](./PLANOS.md) — Planos, limites em janelas de 5 horas e semanais, garantia de 7 dias e comparativo de preços no mercado brasileiro.
 * [CONECTAR.md](./CONECTAR.md) — Guia de ativação no Claude (grátis), ChatGPT (Pro/Business/Enterprise/Edu), Gemini e Claude Code.
 * [PRIVACIDADE-LGPD.md](./PRIVACIDADE-LGPD.md) — Fluxo de dados, LGPD, sigilo advocatício e diretrizes da OAB/CNJ.
 * [prompts/](./prompts/) — Prompts de elite com guardrails anti-alucinação:

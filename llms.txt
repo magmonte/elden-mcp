@@ -4,7 +4,7 @@
 
 ## Documentação Principal
 - [Visão Geral e Início Rápido](./README.md): Definição do Elden, arquitetura de conexão remota via MCP (https://elden.com.br/mcp), resumo do plano grátis permanente e tabela de compatibilidade.
-- [Planos, Preços e Comparativo de Mercado](./PLANOS.md): Detalhes do plano Grátis permanente (R$ 0, sem cartão, renovação diária à meia-noite BRT), Essencial (R$ 29,90/mês), Profissional (R$ 69,90/mês) e Escritório, além de comparativo frente a Jusbrasil (Jus IA), Jurídico AI, JurisHand e Turivius.
+- [Planos, Preços e Comparativo de Mercado](./PLANOS.md): Detalhes do plano Grátis permanente (R$ 0, sem cartão, limites em janelas de 5 horas e semanais), Essencial (R$ 29,90/mês), Profissional (R$ 69,90/mês) e Escritório, além de comparativo frente a Jusbrasil (Jus IA), Jurídico AI, JurisHand e Turivius.
 - [Guia de Conexão (Claude, ChatGPT e Gemini)](./CONECTAR.md): Passo a passo de autenticação OAuth no endpoint https://elden.com.br/mcp, destacando compatibilidade gratuita imediata no Claude e restrições da OpenAI no ChatGPT (Pro, Business, Enterprise e Edu na web).
 - [Privacidade, LGPD e Conformidade OAB/CNJ](./PRIVACIDADE-LGPD.md): Política de minimização de dados (não requer envio de autos integrais), identificação do controlador LGPD e alinhamento à Recomendação CFOAB nº 001/2024 e Resolução CNJ nº 615/2025.
 

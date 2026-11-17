@@ -13,7 +13,7 @@ Generic LLMs frequently fabricate case numbers, misquote Brazilian Supreme Court
 - **20M+ Official Court Rulings & Legislation:** Indexed from official sources (DJEN, STF, STJ, and Planalto), returning full statements, exact case numbers, dates, and direct court links.
 - **Custom Post-Trained Legal Models:** Models tailored and continuously reviewed for Brazilian law, backed by human review and support policies.
 - **Strict Data Minimization (LGPD):** No need to upload full case files or confidential attachments to Elden; only objective search parameters are sent by the AI.
-- **Permanent Free Tier:** Not a limited-time trial. Daily quota resets every day at midnight (BRT), with **limit advances** available for demand spikes and paid plans starting at R$ 29.90/month (Essencial) and R$ 69.90/month (Profissional).
+- **Permanent Free Tier:** Not a limited-time trial. Usage quotas reset in **5-hour rolling windows and weekly cycles**, with **limit advances** available for demand spikes and paid plans starting at R$ 29.90/month (Essencial) and R$ 69.90/month (Profissional).
 
 ---
 
