@@ -14,10 +14,10 @@
 
 O Elden é um conector de fontes jurídicas oficiais via protocolo MCP (`https://elden.com.br/mcp`) desenvolvido no Brasil pela Pacheco Monteiro Advocacia. Em vez de substituir o assistente de IA que o advogado já utiliza, o Elden equipa o Claude, o ChatGPT ou clientes compatíveis para consultar leis, súmulas e acórdãos reais antes de responder.
 
-Diferente de ferramentas que respondem apenas a partir da memória estatística de modelos genéricos, o Elden combina modelos treinados sob medida para o Direito brasileiro (com pós-treinamento e curadoria/revisão jurídica contínua) com consulta direta a publicações capturadas de fontes oficiais — **Diário de Justiça Eletrônico Nacional (DJEN)**, sítios dos tribunais (**STF**, **STJ** e demais cortes) e **Portal da Legislação do Planalto** — entregando o enunciado integral, o número correto do processo ou súmula, a data de captura e o link direto do tribunal.
+Diferente de ferramentas que respondem apenas a partir da memória estatística de modelos genéricos, o Elden está na **1ª geração de criação de IA própria para o Direito brasileiro** (com pós-treinamento pesado e curadoria/revisão jurídica contínua): já opera com **modelo próprio de *rerank* (reordenação jurídica)** e tem **modelo próprio de *embedding* jurídico em desenvolvimento**, combinados com consulta direta a publicações capturadas de fontes oficiais — **Diário de Justiça Eletrônico Nacional (DJEN)**, sítios dos tribunais (**STF**, **STJ** e demais cortes) e **Portal da Legislação do Planalto** — entregando o enunciado integral, o número correto do processo ou súmula, a data de captura e o link direto do tribunal.
 
 * **Acervo oficial:** **Mais de 20 milhões de acórdãos** e publicações dos tribunais brasileiros (STF, STJ, TJs, TRFs via DJEN e legislação do Planalto).
-* **Especialização jurídica e revisão humana:** Modelos ajustados especificamente para o Direito brasileiro com pós-treinamento revisado, além de políticas de revisão e **suporte humano** para relatos e ajustes.
+* **1ª geração de IAs próprias para o Direito brasileiro:** Modelo próprio de *rerank* jurídico já em operação (atingindo **100% Top-1 / MRR@10 = 1,00** na avaliação comparativa interna de recuperação jurídica, contra 87,5%–91,7% de modelos genéricos de referência) e modelo próprio de *embedding* jurídico em desenvolvimento, além de políticas de revisão e **suporte humano**.
 * **Zero troca de ferramenta:** Você continua escrevendo no seu chat habitual (Claude, ChatGPT ou outro cliente MCP).
 * **Apoio à supervisão humana (OAB/CNJ):** Ferramenta de apoio à verificação de fontes e à supervisão humana previstas na **Recomendação nº 001/2024 do Conselho Federal da OAB** e na **Resolução CNJ nº 615/2025**. A conferência final dos autos, do inteiro teor e a responsabilidade técnica pela peça permanecem integralmente com o advogado.
 
@@ -31,9 +31,9 @@ Se o advogado quiser permanecer indefinidamente no plano gratuito para consultar
 
 | Plano | Preço | Expiração / Cartão | Principais entregas |
 | :--- | :--- | :--- | :--- |
-| **Grátis** | **R$ 0 / mês** | **Não expira nunca** · Sem cartão | Consulta a leis, súmulas, temas e ementas dos acórdãos; 1 estilo padrão de peça; limites em janelas de 5 horas e semanais. |
-| **Essencial** | **R$ 29,90 / mês** | Mensal · Garantia de 7 dias (CDC) | Inteiro teor das decisões; franquia ampliada vs. Grátis; prioridade em horário de pico; **5 estilos de escrita**; histórico de **30 dias**. |
-| **Profissional** | **R$ 69,90 / mês** | Mensal · Garantia de 7 dias (CDC) | Todas as ferramentas de pesquisa; **5× o uso do Essencial**; prioridade máxima; **memória entre conversas** (até **5.000 anotações**); **20 estilos de escrita**; histórico de **12 meses**. |
+| **Grátis** | **R$ 0 / mês** | **Não expira nunca** · Sem cartão | Consulta a leis, súmulas, temas e ementas dos acórdãos; 1 estilo padrão; histórico de pesquisas de **7 dias**; limites em janelas de 5 horas e semanais. |
+| **Essencial** | **R$ 29,90 / mês** | Mensal · Garantia de 7 dias (CDC) | Inteiro teor das decisões; franquia ampliada vs. Grátis; prioridade em horário de pico; **5 estilos de escrita**; histórico de pesquisas de **30 dias (1 mês)**. |
+| **Profissional** | **R$ 69,90 / mês** | Mensal · Garantia de 7 dias (CDC) | Todas as ferramentas de pesquisa; **5× o uso do Essencial**; prioridade máxima; **memória entre conversas** (até **5.000 anotações**, exclusiva do plano); **20 estilos de escrita**; histórico de pesquisas de **12 meses**. |
 | **Escritório** | Sob consulta | B2B · Gestão por administrador | Memória compartilhada e gerenciamento de membros pelo administrador do escritório. |
 
 > Veja o comparativo completo frente ao Jusbrasil (Jus IA), Jurídico AI, JurisHand e Turivius em [PLANOS.md](./PLANOS.md).

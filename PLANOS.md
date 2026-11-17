@@ -17,7 +17,8 @@ Todos os planos pagos são mensais, sem multa de cancelamento, com garantia lega
 | **Inteiro teor das decisões** | Não (ementas/súmulas/leis) | **Sim** | **Sim** | **Sim** |
 | **Prioridade em horário de pico** | Padrão | Prioridade | **Prioridade máxima** | **Prioridade máxima** |
 | **Estilos de escrita próprios** | 1 estilo padrão | **5 estilos** | **20 estilos** | Estilos da banca |
-| **Memória entre conversas** | Não | Histórico de 30 dias | **Até 5.000 anotações** (12 meses) | **Memória compartilhada** |
+| **Histórico de pesquisas** | **7 dias** | **30 dias (1 mês)** | **12 meses** | Personalizado |
+| **Memória entre conversas** | Não | Não | **Sim (até 5.000 anotações)** | **Memória compartilhada** |
 
 ---
 
