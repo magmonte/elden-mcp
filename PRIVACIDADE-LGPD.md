@@ -1,6 +1,6 @@
 # Segurança, Criptografia, Privacidade e LGPD (OAB / CNJ)
 
-> **Resumo para advogados:** O Elden foi construído para que advogados e escritórios possam pesquisar jurisprudência com tranquilidade: conta com **criptografia em trânsito e em repouso**, **isolamento por conta**, **recomendação de não envio de dados sensíveis** e **compromisso expresso de nunca comercializar nenhum dado**.
+> **Resumo para advogados:** O Elden foi construído para que advogados e escritórios possam pesquisar jurisprudência sem medo: **não é necessário enviar nenhum dado sensível**, e todo dado que chega ao serviço conta com **tratamento e segurança específicos**, **criptografia em trânsito e em repouso**, **isolamento por conta** e **compromisso expresso de zero comercialização**.
 
 ---
 
@@ -14,11 +14,11 @@ Consulte também a nossa [Política de Segurança (SECURITY.md)](./SECURITY.md).
 
 ---
 
-## 2. Minimização Estrita: Recomendamos Não Enviar Dados Sensíveis
+## 2. Minimização Estrita: Não É Necessário Enviar Dados Sensíveis
 
 - Quando você conversa no Claude, ChatGPT ou outro assistente, o texto integral dos autos e documentos anexados permanece exclusivamente no ambiente do provedor de IA que você escolheu.
 - Ao consultar o Elden via MCP, a IA envia ao servidor **apenas os parâmetros objetivos da consulta** (termos de busca jurisprudencial, referência processual, dispositivo legal ou anotações explicitamente gravadas por você).
-- **Recomendação de uso:** como quem formula os termos da busca é o próprio assistente de IA durante a conversa, **recomendamos não enviar dados pessoais sensíveis, nomes de partes, CPF/RG, segredos de justiça ou autos integrais** — formule a pesquisa em **tese jurídica**, mantendo o sigilo profissional ponta a ponta.
+- **Zero necessidade de exposição de autos:** **não é necessário enviar dados pessoais sensíveis, nomes de partes, CPF/RG, segredos de justiça ou autos integrais** — você pode pesquisar diretamente em **tese jurídica**, mantendo o sigilo profissional ponta a ponta. Tudo o que eventualmente chega ao serviço recebe **tratamento e segurança específicos** sob a LGPD.
 
 ---
 
