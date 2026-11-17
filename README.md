@@ -68,6 +68,7 @@ O servidor MCP recebe apenas os parâmetros objetivos da consulta enviados pela 
 * [PLANOS.md](./PLANOS.md) — Planos, limites em janelas de 5 horas e semanais, garantia de 7 dias e comparativo de preços no mercado brasileiro.
 * [CONECTAR.md](./CONECTAR.md) — Guia de ativação no Claude (grátis), ChatGPT (Pro/Business/Enterprise/Edu), Gemini e Claude Code.
 * [PRIVACIDADE-LGPD.md](./PRIVACIDADE-LGPD.md) — Fluxo de dados, LGPD, sigilo advocatício e diretrizes da OAB/CNJ.
+* [CHANGELOG.md](./CHANGELOG.md) — Histórico público de atualizações do acervo, modelos próprios e integrações.
 * [server.json](./server.json) e [mcp.json](./mcp.json) — Manifestos de especificação MCP para diretórios e clientes compatíveis.
 * [README.en.md](./README.en.md) — English overview for international MCP directories and legal ops teams.
 
