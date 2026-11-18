@@ -87,6 +87,7 @@ Recursos públicos curados para avaliar o conector MCP do Elden, comparar planos
 
 * **Páginas principais:** [Planos e Preços](https://elden.com.br/planos) · [Benchmark Jurídico (IA sem alucinações)](https://elden.com.br/benchmark) · [Blog Técnico e Jurídico](https://elden.com.br/blog/)
 * **Artigos publicados:**
+  * [Gemini 4 Neon no Direito e na advocacia: preços, desempenho e comparativo com GPT-6.2 e Claude 5](https://elden.com.br/blog/gemini-4-neon-no-direito-e-na-advocacia/)
   * [GPT-6.2 Astra e GPT-6.2 Sol: o que muda no preço, no desempenho e no uso pela advocacia brasileira](https://elden.com.br/blog/gpt-6-2-astra-e-sol-lancamento-advocacia-brasileira/)
   * [MCP de jurisprudência brasileira para Claude e ChatGPT: guia prático para advogados](https://elden.com.br/blog/mcp-jurisprudencia-brasileira-para-claude-e-chatgpt/)
   * [Como conferir citação de acórdão com IA sem alucinação antes de protocolar](https://elden.com.br/blog/como-conferir-citacao-de-acordao-com-ia-sem-alucinacao/)
