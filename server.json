@@ -3,7 +3,7 @@
   "name": "br.com.elden/jurisprudencia-mcp",
   "title": "Elden — Jurisprudência e Legislação Brasileira (MCP)",
   "description": "MCP jurídico brasileiro gratuito e sem login: 20M+ acórdãos (STF, STJ, DJEN) e leis na sua IA sem alucinação.",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "websiteUrl": "https://elden.com.br",
   "repository": {
     "url": "https://github.com/magmonte/elden-mcp",

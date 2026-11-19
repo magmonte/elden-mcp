@@ -4,6 +4,21 @@ Registro público de evolução do serviço MCP, acervo jurídico, modelos próp
 
 ---
 
+## [v2.0.0] — 2026-11-19
+### IAs Próprias Completas em Produção (Embedding + Rerank), Benchmarks e Patch de Precisão
+- **Arquitetura proprietária completa em produção:** Entra no ar o **modelo próprio de *embedding* jurídico do Elden**, operando em conjunto com o **modelo próprio de *rerank* jurídico** em dois estágios sobre mais de 11 milhões de acórdãos puros da base vetorial principal (dentro do acervo de 20M+ publicações oficiais), legislação federal, súmulas/temas vinculantes e doutrina.
+- **Desempenho comprovado contra referências abertas (benchmark caixa-preta em subcorpus congelado + 12.310 artigos de lei):**
+  - Pipeline completo (**Elden-Model + Reranker**) alcança **`58,76%` de MRR@10 médio** nos três eixos (**`53,41%`** em consultas reais `T1` com `R@10 = 86,08%`, **`47,27%`** multi-área `T2` e **`75,59%`** em legislação com `R@10 = 85,07%`), superando `Qwen3-Embedding-4B` (`52,05%`), `Qwen3-Embedding-8B` (`50,47%`), `BAAI/bge-m3` (`46,16%`) e `intfloat/multilingual-e5-large` (`44,36%`).
+  - Em **escala real (11+ milhões de acórdãos)**: **3× mais acerto no topo (`R@1`: `0,37% → 1,10%`)** e **+109% em `R@10`** (`4,03% → 8,42%`) frente à geração anterior com reordenação, recuperação inicial em **`43,5 ms` (p50)**, resposta completa em dois estágios em **`~1,47 s` (p50)** e **`100%` dos precedentes verificáveis** diretamente na base oficial.
+- **Patch v2.0 de precisão e UX jurídica (testes ao vivo):**
+  - **Ordenação de leis (`buscar_lei`):** corrigido bug crítico na chave de ordenação pós-rerank, devolvendo dispositivos processuais e materiais exatos ao topo (ex.: CPC art. 248 em citação postal com AR), além da correção ortográfica no rodapé de pertinência.
+  - **Súmulas e Temas:** busca vetorial aprimorada com reforço por itens numerados de súmulas/temas longos e calibragem do reordenador para destacar teses vinculantes aplicáveis (ex.: Tema 566 do STJ em prescrição intercorrente).
+  - **Agrupamento e limpeza de enunciados:** temas com enunciado rigorosamente idêntico passam a ser agrupados em um único bloco (ex.: *Temas 1154 / 1241 do STJ*), com correção pontual de travessão (`—`).
+  - **Prioridade para enunciados vigentes:** súmulas e teses canceladas/superadas deixam de ocupar vagas em buscas temáticas livres (salvo quando pedidas explicitamente), mantendo o alerta `⚠️ CANCELADA` na conferência direta por número (`verificar_citacao`).
+  - **Panorama de fundamentação (`buscar_fundamentacao`):** eliminada a duplicação de acórdãos entre os blocos de súmulas/temas e julgados nacionais, eliminada a contenção interna entre os eixos (preservando busca semântica completa em leis, súmulas e acórdãos) e ajustado o corte por caracteres para nunca exibir cabeçalho sem ementa.
+
+---
+
 ## [v1.2.0] — 2026-11-17
 ### Super-Ferramenta de Fundamentação & Nova Matriz de Planos
 - **Nova super-ferramenta `buscar_fundamentacao`:** Executa varredura combinada em três eixos (legislação federal, súmulas/temas vinculantes verificados e acórdãos da base nacional) e entrega um dossiê compactado com pontos principais e identificadores exatos para aprofundamento item a item (`buscar_lei`, `verificar_citacao`, `verificar_processo`). Disponível em modo degustação no **Grátis** (até **2 usos a cada 5 horas**) e liberada com maior profundidade no **Essencial** e **Profissional**.

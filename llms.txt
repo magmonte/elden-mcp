@@ -16,7 +16,7 @@
 ## Site Oficial (elden.com.br)
 - [Página Inicial do Elden](https://elden.com.br/): Apresentação comercial, contador atualizado do acervo jurídico e acesso rápido aos planos.
 - [Planos e Preços](https://elden.com.br/planos): Detalhamento dos planos Grátis permanente, Essencial, Profissional e Escritório com garantia de 7 dias.
-- [Benchmark Elden](https://elden.com.br/benchmark): Avaliação pública de IA jurídica sem alucinações e verificação de precedentes.
+- [Benchmark Elden](https://elden.com.br/benchmark): Avaliação pública de IA jurídica sem alucinações, comparativo contra referências abertas (58,76% MRR@10 médio na v2.0 com embedding + rerank próprios em produção, ~1,47 s E2E) e 100% de verificação de precedentes.
 - [Criar Conta e Conectar](https://elden.com.br/criar-conta): Fluxo de onboarding OAuth gratuito (sem cartão) com botão de 1 clique para Claude.
 - [Blog Jurídico e Técnico](https://elden.com.br/blog/): Artigos sobre jurisprudência inventada por IA, multas processuais, Recomendação OAB 001/2024 e Resolução CNJ 615/2025.
 - [Termos de Uso](https://elden.com.br/termos) e [Política de Privacidade](https://elden.com.br/privacidade): Documentos legais e de conformidade LGPD.

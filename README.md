@@ -15,12 +15,30 @@
 
 O Elden é um serviço MCP (*Model Context Protocol*) remoto (`https://elden.com.br/mcp`) desenvolvido no Brasil pela Pacheco Monteiro Advocacia. Em vez de substituir suas ferramentas atuais, o Elden equipa o Claude, o ChatGPT, agentes internos ou qualquer sistema compatível para **ler, pesquisar fundamentações e compreender como o ordenamento jurídico brasileiro funciona em miúdos**.
 
-O Elden **não serve apenas para citar precedentes**: ao consultar publicações capturadas de fontes oficiais — **Diário de Justiça Eletrônico Nacional (DJEN)**, sítios dos tribunais (**STF**, **STJ** e demais cortes) e **Portal da Legislação do Planalto** — e combiná-las com a **1ª geração de IAs próprias do Elden para o Direito brasileiro** (modelo próprio de *rerank* jurídico já em operação e modelo próprio de *embedding* jurídico em desenvolvimento, com pós-treinamento pesado e revisado), a sua IA passa a identificar teses jurídicas, conexões normativas e razões de decidir com precisão real, entregando enunciado integral, número exato, data de captura e link direto do tribunal.
+O Elden **não serve apenas para citar precedentes**: ao consultar publicações capturadas de fontes oficiais — **Diário de Justiça Eletrônico Nacional (DJEN)**, sítios dos tribunais (**STF**, **STJ** e demais cortes) e **Portal da Legislação do Planalto** — e combiná-las com os **modelos próprios do Elden para o Direito brasileiro** (**modelo próprio de *embedding* jurídico + modelo próprio de *rerank* jurídico** em produção em dois estágios), a sua IA passa a identificar teses jurídicas, conexões normativas e razões de decidir com precisão real, entregando enunciado integral, número exato, data de captura e link direto do tribunal.
 
 * **Acervo oficial:** **Mais de 20 milhões de acórdãos** e publicações dos tribunais brasileiros (STF, STJ, TJs, TRFs via DJEN e legislação do Planalto).
 * **Para qualquer sistema ou agente jurídico do escritório:** Como é um servidor MCP padrão, você pode ligar o Elden tanto no chat do dia a dia (elaboração e revisão de peças) quanto em **agentes de atendimento jurídico por IA** (triagem e identificação de teses) ou em **outros sistemas internos do escritório** que mexam com Direito.
-* **1ª geração de IAs próprias e suporte humano:** Modelo próprio de *rerank* jurídico em operação e modelo próprio de *embedding* jurídico em desenvolvimento, além de políticas formais de revisão e **suporte humano**.
+* **IAs próprias em produção e suporte humano:** **Modelo próprio de *embedding* jurídico + modelo próprio de *rerank* jurídico** em operação conjunta (`v2.0.0`), além de políticas formais de revisão e **suporte humano**.
 * **Apoio à supervisão humana (OAB/CNJ):** Ferramenta de apoio à verificação de fontes e à supervisão humana previstas na **Recomendação nº 001/2024 do Conselho Federal da OAB** e na **Resolução CNJ nº 615/2025**. A conferência final dos autos, do inteiro teor e a responsabilidade técnica pela peça permanecem integralmente com o advogado.
+
+---
+
+## Benchmark v2.0 — Precisão, Velocidade e Confiabilidade
+
+Avaliação comparativa em protocolo cego/caixa-preta sobre subcorpus congelado (`50.000` acórdãos + `12.310` artigos de legislação federal) e validação em **escala real (11+ milhões de julgados)** — resultados detalhados em [elden.com.br/benchmark](https://elden.com.br/benchmark):
+
+| Sistema / Modelo | Consultas Reais (`T1`) MRR@10 | Multi-Área 20 Ramos (`T2`) MRR@10 | Legislação (`12,3k` arts.) MRR@10 | **Média MRR@10** |
+| :--- | :---: | :---: | :---: | :---: |
+| **`Elden-Model + Reranker` (v2.0 · 2 estágios)** | **53,41%** *(R@10: 86,08%)* | **47,27%** | **75,59%** *(R@10: 85,07%)* | **58,76%** |
+| **`Elden-Model` (1 estágio)** | 50,27% *(R@10: 80,22%)* | 47,10% | 73,66% *(R@10: 82,09%)* | **57,01%** |
+| `Qwen/Qwen3-Embedding-4B` (1 estágio) | 50,45% *(R@10: 82,78%)* | **47,95%** | 57,75% *(R@10: 67,76%)* | 52,05% |
+| `Qwen/Qwen3-Embedding-8B` (1 estágio) | 50,80% *(R@10: 84,62%)* | 46,16% | 54,45% *(R@10: 65,67%)* | 50,47% |
+| `BAAI/bge-m3` (1 estágio) | 44,01% *(R@10: 74,36%)* | 33,18% | 61,29% *(R@10: 72,24%)* | 46,16% |
+| `intfloat/multilingual-e5-large` (1 estágio) | 41,07% *(R@10: 69,60%)* | 30,23% | 61,79% *(R@10: 70,45%)* | 44,36% |
+
+* **Escala real (11+ milhões de julgados):** **3× mais acerto na 1ª posição (`R@1`: `0,37% → 1,10%`)** e **+109% em `R@10`** (`4,03% → 8,42%`) frente à geração anterior com reordenação, com **`100%` dos precedentes verificáveis** diretamente na base oficial.
+* **Latência em produção (p50):** **`43,5 ms`** na recuperação vetorial inicial sobre 11+ milhões de julgados e **`~1,47 s`** no pipeline completo de dois estágios (embedding + busca + reordenação semântica).
 
 ---
 
