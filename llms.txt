@@ -1,5 +1,7 @@
 # Elden
 
+> **Elden V1.0 em produção:** modelo próprio de busca jurídica brasileira com **58,8%** no benchmark cego em casos reais (superando Qwen3-Embedding-4B 52,0%, pplx-embed-v1-0.6b 52,0%, Qwen3-Embedding-8B 50,5%, BAAI/bge-m3 46,2%, multilingual-e5-large 44,4% e Amazon Titan v2 42,4%), consulta a processos e inteiro teor de acórdãos (STF, STJ, TST, STM, TJs, TRFs e TRTs via DJEN), legislação do Planalto com atualização contínua, conferência de transcrições e sigilo sem envio de autos integrais.
+
 > Conector MCP (Model Context Protocol) brasileiro de pesquisa jurídica gratuita e sem alucinações que conecta Claude, ChatGPT, Gemini, Cursor, agentes de atendimento jurídico e sistemas de escritórios a mais de 20 milhões de acórdãos e publicações oficiais (STF, STJ, TJs, TRFs via DJEN e legislação do Planalto). Funciona imediatamente sem cadastro pelo endpoint https://elden.com.br/mcp (modo aberto de leitura pública com até 1.000 consultas/dia por IP) e possui plano gratuito permanente (R$ 0, sem cartão) via OAuth para liberar estilos, memória processual e janelas contínuas.
 
 ## Documentação Principal

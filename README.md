@@ -11,6 +11,18 @@
 
 ---
 
+## Novidade: Lançamento do Elden V1.0
+
+O Elden agora opera com o **Elden V1.0**, modelo próprio de busca jurídica treinado especificamente para jurisprudência e legislação brasileira:
+
+* **Precisão cirúrgica (58,8%):** liderança no benchmark cego em casos reais (`58,8%`), acima de `Qwen3-Embedding-4B` (`52,0%`), `pplx-embed-v1-0.6b` (`52,0%`), `Qwen3-Embedding-8B` (`50,5%`), `BAAI/bge-m3` (`46,2%`), `multilingual-e5-large` (`44,4%`) e `Amazon Titan v2` (`42,4%`).
+* **Fontes reais, inteiro teor e conferência literal:** consulta processos, inteiro teor e ementas de acórdãos (**STF, STJ, TST, STM, TJs, TRFs e TRTs via DJEN**) e legislação do **Planalto**, com ferramentas de conferência de citações, processos e transcrições (`conferir_transcricao`, `dossie_precedente`, `pesquisar_questao`) antes de protocolar.
+* **Atualização contínua:** captura automática diária pelo DJEN e fontes oficiais dos tribunais e do Planalto.
+* **Sigilo profissional sem envio de autos inteiros:** a IA envia apenas a consulta e o que você optar por guardar na memória criptografada — sem precisar expor autos integrais nem vender dados.
+* **Compatível com ChatGPT, Claude e Gemini:** funciona no Claude (inclusive no plano gratuito), no ChatGPT (conectores MCP na web em Pro, Business, Enterprise e Edu) e no Gemini (conectores personalizados).
+
+---
+
 ## O que é o Elden e como ele deixa a sua IA mais inteligente em Direito?
 
 O Elden é um serviço MCP (*Model Context Protocol*) remoto (`https://elden.com.br/mcp`) desenvolvido no Brasil pela Pacheco Monteiro Advocacia. Em vez de substituir suas ferramentas atuais, o Elden equipa o Claude, o ChatGPT, agentes internos ou qualquer sistema compatível para **ler, pesquisar fundamentações e compreender como o ordenamento jurídico brasileiro funciona em miúdos**.

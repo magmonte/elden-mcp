@@ -6,6 +6,16 @@
 
 ---
 
+## What's New: Elden V1.0 Release
+
+Elden now runs on **Elden V1.0**, a proprietary legal retrieval stack trained specifically for Brazilian case law and federal legislation:
+
+- **58.8% Blind Benchmark Accuracy:** Outperforms `Qwen3-Embedding-4B` (`52.0%`), `pplx-embed-v1-0.6b` (`52.0%`), `Qwen3-Embedding-8B` (`50.5%`), `BAAI/bge-m3` (`46.2%`), `multilingual-e5-large` (`44.4%`), and `Amazon Titan v2` (`42.4%`).
+- **Full-Text Rulings & Citation Verification:** Queries real proceedings, full-text court rulings (`STF, STJ, TST, STM, state TJs, federal TRFs & labor TRTs via DJEN`), and Planalto statutes, with literal quote and process verification (`conferir_transcricao`, `dossie_precedente`, `pesquisar_questao`).
+- **Continuous Daily Updates & Attorney-Client Privilege:** Automated daily ingestion from DJEN and Planalto; no full case files ever need to be sent.
+
+---
+
 ## Why Elden?
 
 Generic LLMs frequently fabricate case numbers or misread Brazilian statutory and case law nuances. Instead of forcing firms into a single closed platform, Elden connects via **OAuth + Remote MCP** to make any AI system genuinely smarter in Brazilian law — not only for citing rulings, but for **reading legal reasoning, understanding how Brazilian law works in detail, and identifying legal theses**:
