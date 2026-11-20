@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "br.com.elden/jurisprudencia-mcp",
-  "title": "Elden — Jurisprudência e Legislação Brasileira (MCP)",
-  "description": "MCP jurídico brasileiro gratuito e sem login: 20M+ acórdãos (STF, STJ, DJEN) e leis na sua IA sem alucinação.",
-  "version": "2.0.0",
+  "title": "Elden V1.0 — Jurisprudência e Direito Brasileiro (MCP)",
+  "description": "Elden V1.0: MCP de Direito e jurisprudência BR (58,8% benchmark). 20M+ acórdãos STF/STJ/DJEN e leis.",
+  "version": "1.0.0",
   "websiteUrl": "https://elden.com.br",
   "repository": {
     "url": "https://github.com/magmonte/elden-mcp",
